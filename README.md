@@ -47,4 +47,4 @@ if __name__ == "__main__":
     #Llama a la función main para iniciar la ejecución del programa.
     main()
 
-    Reflexión: 
+    Reflexión: El bootcamp ha sido de mucha ayuda y aprendizaje para la resolución de problemas lógicos y un tanto matemáticos mostrando las posibilidades y lo útil que es la condicional if else en los programas. Hasta el momento Python es un lenguaje muy interesante y con una sintaxis muy simple.
